@@ -1,0 +1,16 @@
+# Build Results
+bin/
+obj/
+
+# Cake Build
+.cake/*
+!.cake/packages.config
+
+# Visual Studio cache/options directory
+.vs/
+
+# Nuget Packages
+**/packages/*
+
+# Artifacts
+artifacts/
